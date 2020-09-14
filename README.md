@@ -20,5 +20,5 @@
   </ul>
 
 # Reference
-  [혁펜하임 유튜브](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
+  [혁펜하임 유튜브](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag) <br>
   [OpenAI gym](https://github.com/openai/gym)
