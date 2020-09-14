@@ -19,3 +19,6 @@
     <li>강화학습 공부 진행과정</li>
   </ul>
 
+# Reference
+  [혁펜하임 유튜브](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
+  [OpenAI gym](https://github.com/openai/gym)
