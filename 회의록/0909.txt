@@ -1,0 +1,55 @@
+혁펜하임 유튜브 (강화학습)
+  1장
+    1. 강화학습 기초
+    2. Q-learning 기초
+  2장
+    1. MDP 개념
+    2. 상태 가치 함수, 행동 가치 함수, Optimal Policy 개념
+    3. 벨만 방정식
+  3장
+    1. Optimal Policy
+    2. MC 방법
+    3. TD , SARSA 소개
+    4. MC vs TD
+  4장
+    1. On-Policy vs Off-Policy
+    2. Q-learning 심화
+    3. SARSA vs Q-learning
+    4 n-step TD , n-step Q-learning
+  5장
+    1. Deep Q Network 논문 읽기
+    2. 2015 DQN 논문 읽기 (Nature)
+  6장
+    1. DDQN:Double DQN 논문 읽기
+  7장
+    1. Dueling DQN 논문 읽기
+
+김형동님
+  - 혁펜하임 유튜브 4-2강
+김희아님
+  - 혁펜하임 유튜브 4-4강
+  - 수학적인 부분들이 이해가 안되서 계속해서 봐야할 것 같음
+이유리님
+  - 혁펜하임 유튜브 3-2강
+
+
+  ACTION_MEANING = {
+      0: "NOOP",
+      1: "FIRE",
+      2: "UP",
+      3: "RIGHT",
+      4: "LEFT",
+      5: "DOWN",
+      6: "UPRIGHT",
+      7: "UPLEFT",
+      8: "DOWNRIGHT",
+      9: "DOWNLEFT",
+      10: "UPFIRE",
+      11: "RIGHTFIRE",
+      12: "LEFTFIRE",
+      13: "DOWNFIRE",
+      14: "UPRIGHTFIRE",
+      15: "UPLEFTFIRE",
+      16: "DOWNRIGHTFIRE",
+      17: "DOWNLEFTFIRE",
+  }
