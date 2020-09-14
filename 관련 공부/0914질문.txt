@@ -1,0 +1,42 @@
+1. 강화학습의 목적
+  - reward의 최대화
+
+2. exploration(탐험)을 하는 이유
+  - 새로운 path 발견
+  - 새로운 보상 발견
+  -> 계속 탐험만 한다면? -> 학습 불가 -> decaying epsilon-greedy -> 점진적으로 활용
+
+3. gamma(discount factor)를 쓰는 이유
+  - 보상과의 거리가 얼마나 되는지 알게 해줌 -> 효율적인 path를 찾게 해줌
+
+4. optimal policy 란?
+  - 현재 state value function이 최대가 되도록 하는 정책
+
+5. MC 방법에서 Q*를 어떻게 얻을까
+  - 점근적으로 근사
+
+6. TD error , TD target
+  *TD error : R^(N) + gamma*Q(s^(N)_t+1,a^(N)_t+1) - Q_N-1
+  *TD target : R^(N) + gamma*Q(s^(N)_t+1,a^(N)_t+1)
+
+7. MC와 TD 방법의 차이
+  - 샘플링하는 변수 차이
+    - MC: G(완전함) -> non-biased
+    - TD: Q(불완전함) -> bias 발생
+
+  - 탐색 범위의 차이
+    - MC: 경로 전부 -> high variance
+    - TD: 현재부터 n단계 다음 상태까지만 -> low variance
+
+8. off-policy 즉 행동정책과 목표정책을 나누었을 때 장점
+  - 사람 or other agents
+  - 탐험을 마음껏 하며 optimal(greedy)하게 sampling(TD_target) 가능
+  - 재평가 가능
+
+9. SARSA와 Q-learning의 차이 on-off말고 수식적인 부분에서 오는 차이
+  - maximization Q
+
+10. n-step TD에서 중요도 추출비율 importance sampling rate를 쓰지 않는 이유와
+    쓸 수 있는 환경
+  - PDF기 때문에 특정 확률을 추출할 수 없음
+  - PMF 즉 discrete한 행동 공간에서는 가능
