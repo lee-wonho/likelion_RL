@@ -21,4 +21,5 @@
 
 # Reference
   [혁펜하임 유튜브](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag) <br>
-  [OpenAI gym](https://github.com/openai/gym)
+  [OpenAI gym](https://github.com/openai/gym)<br>
+  [dqn_with_pytorch](https://github.com/AndersonJo/dqn-pytorch) 
