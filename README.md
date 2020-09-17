@@ -26,7 +26,7 @@
     <li>강화학습 공부 진행과정</li>
   </ul>
   
- [2020.09.17](https://github.com/leewonho/likelion_RL/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D/0917.txt)
+ [2020.09.17](https://github.com/lee-wonho/likelion_RL/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D/0917.txt)
  <ul>
     <li>환경설정</li>
     <li>BreakOut DQN 알고리즘 구현</li>
