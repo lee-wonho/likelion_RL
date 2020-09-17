@@ -1,0 +1,7 @@
+wsl에서의 환경 설정 오류로 인해
+
+windows pycharm을 이용한 환경 구축
+
+breakout-dqn 알고리즘 구현
+
+ddqn 논문읽기 시작 기간 (09/18 ~ 09/21)
