@@ -1,0 +1,26 @@
+추가 구현사항
+  - Dueling DQN
+  - A3C (option)
+  - PPO (option)
+  -
+
+발표자료
+  - 강화학습에 대한 개요
+  - Q-learning
+  - 알고리즘 소개
+  - 논문 refer
+  - 시현 영상
+
+발표자료 담당
+  - 미정
+
+발표 담당
+  - 미정
+
+DDQN 논문 읽고 구현 (~ 09/20)
+Dueling DQN 논문 읽고 구현 (~ 9/2x)
+
+유리님 질문
+  DQN에서 CNN FrameSkip은 뭘 하는건가
+  - 흔히 게임이나 영상을 재생할 때 프레임(FPS,Frame Per Seconds)가 떨어진다고 얘기하는데
+  - FrameSkip의 단위를 크게 잡게 되면 FPS는 떨어지고 그 반대면 FPS는 커진다.
