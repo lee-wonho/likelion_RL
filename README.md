@@ -1,4 +1,7 @@
 # likelion_RL
+  광주 인공지능 사관학교 warmming_up project (2020-09-09~2020-09-23) <br>
+  OpenAI gym을 이용한 Atari 게임AI 만들기 <br>
+
 # 실행 환경
   cuda-11.0<br>
   nvidia-driver 452.06<br>
