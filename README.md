@@ -31,6 +31,13 @@
     <li>환경설정</li>
     <li>BreakOut DQN 알고리즘 구현</li>
  </ul>
+ 
+ [2020.09.18](https://github.com/lee-wonho/likelion_RL/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D/0918.txt)
+ <ul>
+  <li>나머지 프로젝트 기간동안 할 일</li>
+  <li>유리님 질문 about FrameSkipping </li>
+ </ul>
+ 
 
 # Reference
   [혁펜하임 유튜브](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag) <br>
