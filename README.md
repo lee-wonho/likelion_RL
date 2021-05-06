@@ -41,6 +41,7 @@
   <li>유리님 질문 about FrameSkipping </li>
  </ul>
  
+[발표자료](https://github.com/lee-wonho/likelion_RL/blob/master/LEVEL_UP.pdf)
 
 # Reference
   [혁펜하임 유튜브](https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag) <br>
